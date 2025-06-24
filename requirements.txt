@@ -1,0 +1,10 @@
+# Snake Game Dependencies
+# Core game engine
+pygame>=2.0.0,<3.0.0
+
+# Development dependencies (install with: pip install -r requirements-dev.txt)
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.8.0
+# mypy>=0.800
+# isort>=5.0.0
